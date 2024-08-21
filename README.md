@@ -1,6 +1,6 @@
 - 👋 Hi, I am Amol Telange
 - 👀 I’m interested in Data Analysis and Lte developer opportunities
-- 🌱 I’m currently learning Data Analyst from EXELR 
+- 🌱 I’m currently learning Data Analyst from EXCELR 
 - 📫 How to reach me ... You can contact me on my mail Id:- amoltelange2552@gmail.com
 - or Mobile No:- 9637709854
   
